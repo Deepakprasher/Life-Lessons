@@ -252,7 +252,6 @@ async function callClaude(prompt) {
 }
 
 // Storage handled by supabase.js
-}
 
 // ── Parse sections ────────────────────────────────────────────────────────────
 function parseSections(text) {
